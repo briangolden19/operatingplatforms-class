@@ -1,1 +1,6 @@
-# operatingplatforms-class
+# The client was Tha Gaming Room. They wanted to make a web-based game that ran within browsers. 
+# I think that the documentation highlights many of the positives and negatives of each opition that the client might want to explore, giving pros and cons to each system.
+# Working through the document helped me understand some of the aspects of the code, like the Singleton Pattern and how the REST API calls worked.
+# I am happy with the way I filled out the document. I found that it was filled out mostly unbaised but with facts to back up any bias I might have had.
+# I interpreted the client's needs by understanding that they wanted a secure piece of software that run in a browser. They also wanted to make sure it would be expandable in the future and easy to understand overall. It is important to consider the client's needs because they are the ones paying us. Understanding what they want is a key to gaining trust to work with them again.
+# My approach to designing software has always been to start out by writing down a few ideas of what I might want in that software. After getting some general ideas, I can build on that and possibly revise my grand plan as new ideas or complications come up. In the future I would use the idea of a design document to help organize my plans into an easy to read and expandable document. 
